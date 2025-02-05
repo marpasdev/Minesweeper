@@ -1,0 +1,34 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+*.pdb
+*.ilk
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.cache
+*.log
+
+# NuGet Packages
+packages/
+*.nupkg
+project.lock.json
+global.json
+NuGet.Config
+*.snupkg
+
+# Compiled DLLs
+*.dll
+*.exe
+
+# Ignore user-specific settings
+*.DS_Store
+Thumbs.db
